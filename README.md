@@ -4,6 +4,9 @@ daScript - high-performance statically strong typed scripting language
 MacOS/linux/win32/win64 build status [![build](https://github.com/GaijinEntertainment/daScript/actions/workflows/build.yml/badge.svg)](https://github.com/GaijinEntertainment/daScript/actions/workflows/build.yml)\
 MacOS/linux/win64 wasm build status [![wasm_build](https://github.com/GaijinEntertainment/daScript/actions/workflows/wasm_build.yml/badge.svg)](https://github.com/GaijinEntertainment/daScript/actions/workflows/wasm_build.yml)
 
+4/24/2023
+2023.4.24-skr
+
 11/26/2021
   * hardware breakpoints are now supported on mac arm64
   * linux build is functional again
