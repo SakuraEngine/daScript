@@ -11,6 +11,9 @@ tmtags
 build/
 bin/
 .vscode/
+.history/
+.cache/
+.xmake/
 temp/
 
 

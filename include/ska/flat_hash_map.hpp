@@ -166,7 +166,7 @@ struct sherwood_v3_entry
     }
     static sherwood_v3_entry * empty_default_table()
     {
-        static sherwood_v3_entry result[min_lookups] = { {}, {}, {}, {special_end_value} };
+        thread_local static sherwood_v3_entry result[min_lookups] = { {}, {}, {}, {special_end_value} };
         return result;
     }
 
